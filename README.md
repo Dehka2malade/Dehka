@@ -1,13 +1,12 @@
-# 🥙 Bienvenue sur mon GitHub Khara !
+# 🥙 Bienvenue sur mon GitHub !
 
 <p align='left'>Selem! c'est Dehka, développeur sur FiveM depuis 2023</p>
-<p align='left'>je vie a Malte</p>
 
 ---
 
 ## 🥙 Compétences 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,lua,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,lua"/>
 </div>
 
 ---
