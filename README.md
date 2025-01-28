@@ -6,7 +6,7 @@
 
 ## 🥙 Compétences 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=html,css,lua,vscode"/>
 </div>
 
 ---
