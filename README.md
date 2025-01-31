@@ -9,17 +9,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,lua"/>
 </div>
 
+### 🥙 Mon portfolio
+**Site** : https://dehka2malade.github.io/Portfolio-Dehka/
+
 ---
 
 ## 🥙 Serveur discord
 ### 🥙 CFX Dev FiveM
 **Discord** : https://discord.gg/PvTDTj5M2P
-
----
-
-## 🥙 Mon projet
-### 🥙 Mon portfolio
-**Site** : https://dehka2malade.github.io/Portfolio-Dehka/
 
 
 ---
