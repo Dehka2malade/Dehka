@@ -1,6 +1,6 @@
 # 🥙 Bienvenue sur mon GitHub !
 
-<p align='left'>Selem! c'est Dehka, développeur sur FiveM depuis 2024</p>
+<p align='left'>Bonjour ! c'est Dehka j'ai 16ans et je suis développeur sur FiveM depuis 2024</p>
 
 ---
 
